@@ -24,20 +24,20 @@ The dataset used in this analysis contains two separate hotel datasets: one for 
 ## Exploratory Data Analysis for Hotel Booking 
 Exploratory Data Analysis (EDA) for Hotel Booking refers to the process of examining and analyzing a dataset of hotel booking information to gain insights, identify patterns, and understand the underlying relationships among the different variables. The aim of this analysis is to explore the data and provide a summary of the findings. 
 
-The steps for EDA in this repository is as follows:
-Step 1 : Importing libraries that are important for visualizing and exploring the dataset/n
-Step 2 : Reading or Importing the dataset
-Step 3 : Describing the data to understand the general out look of the data
-Step 4 : Finding and fixing problems with missing values
-Step 5 : Exploring and visualizing the data
+The steps for EDA in this repository is as follows:<br>
+Step 1 : Importing libraries that are important for visualizing and exploring the dataset <br>
+Step 2 : Reading or Importing the dataset <br>
+Step 3 : Describing the data to understand the general out look of the data <br>
+Step 4 : Finding and fixing problems with missing values <br>
+Step 5 : Exploring and visualizing the data <br>
 
 In step three the following questions were explored and answered during the EDA;
 
-1 Which hotels are booked more
-2 Which months has the most bookings
-3 Which months has the most cancelled bookings
-4 Which hotel has the most cancelled bookings
-5 Which hotel has the most cancelled bookings
-6 Which country has the most bookings
-7 Which agents have the most hotel bookings
+1 Which hotels are booked more <br>
+2 Which months has the most bookings <br>
+3 Which months has the most cancelled bookings <br>
+4 Which hotel has the most cancelled bookings <br>
+5 Which hotel has the most cancelled bookings <br>
+6 Which country has the most bookings <br>
+7 Which agents have the most hotel bookings <br>
 and soo on ...
